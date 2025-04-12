@@ -1,0 +1,21 @@
+==== RM ASSIST LOG START ====
+
+=== Interaction Log ===
+RM: Abhishek
+Customer CIF: CIF0001
+Products: FD, FX
+Decision: Offer FX advisory for next AED 10K transfer
+Message: Customer Ali has shown drop trend. Recommended: Offer FX advisory for next AED 10K transfer
+Prompt: You are an RM Assist agent.
+
+🧑 RM Name: Abhishek (Location not needed)
+🎯 Focus Product: based on target gap and incentive
+
+📂 Customer Chosen: CIF0001
+Segment: GOLD
+Balance: 98000.0
+Products: FD, FX
+
+Please reason step-by-step.
+Provide suggestions in structured, JSON-style format.
+Self-verify before concluding. If unsure, ask RM.
